@@ -60,4 +60,4 @@ limitations under the License.
 
 
 <!-- Markdown link & images -->
-[license]: https://img.shields.io/badge/license-Apache%202.0-blue.svg?style=flat-square
+[license]: https://img.shields.io/badge/license-Apache--2.0-blue.svg?style=flat-square
