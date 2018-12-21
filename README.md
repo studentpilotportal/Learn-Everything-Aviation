@@ -42,7 +42,7 @@
 ## Table of Contents
 
 * [About the Project](#about-the-project)
-* [Student Pilots, Flight Instructors, Flight Schools, etc.](#student-pilots-flight-instructors-flight-schools-etc)
+* [Student Pilots, Flight Instructors, Flight Schools, etc.](#for-student-pilots-flight-instructors-flight-schools-etc)
 * [Usage](#usage)
 * [Contributing](#contributing)
 * [License](#license)
