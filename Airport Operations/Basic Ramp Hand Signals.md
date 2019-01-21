@@ -153,4 +153,4 @@ During night or times of low visibility such as haze, fog, dust, or other weathe
 
 ### Sources
 
-- ASA 2019 Federal Aviation Regulations/Aeronautical Information Manual, pg.717
+- [FAA Aeronautical Information Publication (AIP) 25th Edition, pg. ENR 1.1-24](https://www.faa.gov/air_traffic/publications)

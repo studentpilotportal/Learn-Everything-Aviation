@@ -101,5 +101,4 @@ This is paragraph content for section three. All markdown syntax can be used in 
 
 ### Sources
 
-- [Federal Aviation Administration](https://www.faa.gov)
-- []()
+- [FAA Aeronautical Information Publication (AIP) 25th Edition, pg. ](https://www.faa.gov/air_traffic/publications)

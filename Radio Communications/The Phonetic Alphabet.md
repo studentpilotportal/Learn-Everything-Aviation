@@ -241,5 +241,5 @@ Example | Speech
 
 ### Sources
 
-- ASA 2019 Federal Aviation Regulations/Aeronautical Information Manual, pg.691
+- [FAA Aeronautical Information Publication (AIP) 25th Edition, pg. GEN 3.4-8](https://www.faa.gov/air_traffic/publications)
 - [FAA-H-8083-25B: Pilot's Handbook of Aeronautical Knowledge, pg.16-5](https://studentpilotportal.com/books/aeronautical-knowledge-handbook)
