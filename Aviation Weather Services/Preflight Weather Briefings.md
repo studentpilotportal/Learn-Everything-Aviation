@@ -242,5 +242,6 @@ control of the aircraft, and/or death.
 - [FAA Aeronautical Information Publication (AIP) 25th Edition, pg. GEN 3.5-9](https://www.faa.gov/air_traffic/publications)
 - [FAI FSS - Basic Pilot Briefings](https://www.faa.gov/about/office_org/headquarters_offices/ato/service_units/systemops/fs/alaskan/alaska/fai/pfpwb)
 - [FAA-P-8740-30 - How to Obtain a Good Weather Briefing](https://www.faasafety.gov/files/gslac/library/documents/2011/Aug/56400/FAA%20P-8740-30%20GoodWeatherBriefing[hi-res]%20branded.pdf)
+- [AC 00-45H: Aviation Weather Services, pg. 1-5](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/1030235)
 - [FAA Testing Web-Based Preflight Weather Self-Briefing for General Aviation Pilots](https://www.faa.gov/data_research/research/med_humanfacs/oamtechreports/2010s/media/201105.pdf)
 - [Aviation Weather Center](https://aviationweather.gov)
