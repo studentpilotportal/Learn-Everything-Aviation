@@ -104,9 +104,7 @@ Z | Zulu | (ZOO-LOO)
 
 When communicating round figures that indicate hundreds and thousands, such as those for ceiling heights, and upper wind levels state the separate digits of the thousands plus the hundreds if appropriate.
 
-Airways and jet routes are also communicated by saying each digit of the all figures.
-
-All other figures must be transmitted by pronouncing each digit. Such as if stating an aircraft callsign or repeating instructions that include figures.
+All other figures like airways and jet routes must be transmitted by pronouncing each digit. For example, if stating an aircraft callsign or repeating instructions that include figures.
 
 For figures that contain decimals like a radio frequency, the decimal point is spoken as "point."
 
@@ -119,7 +117,7 @@ Example | Speech
 500 | five hundred
 3,500 | three thousand five hundred
 10,000 | one zero thousand
-V25 | Victor Twenty-Five
+V12 | Victor Twelve
 J533 | J Five Thirty-Three
 18 | one eight
 121.9 | one two one point niner
@@ -162,7 +160,7 @@ Example | Speech
 
 ## Saying Speeds
 
-Transmitting speeds are also similar to transmitting standard numbers. The separate digits of the speed followed by the word "knots." Controllers may omit the word "knots" when using terminology that already references the controller is referring to speed instructions or procedures. For example, "reduce/increase speed to one two zero."
+Transmitting speeds are also similar to transmitting standard numbers. The separate digits of the speed followed by the word "knots" should be communicated. Controllers may omit the word "knots" when using terminology that already indicates that the controller is referring to speed instructions or procedures. For example, "reduce/increase speed to one two zero."
 
 When referring to Mach numbers, the word "Mach" (pronounced "mahk"), should precede the numbers.
 
@@ -214,8 +212,8 @@ Example | Speech
 
 - When transmitting to an ATC facility, always use standard phraseology and proper pronunciation of the phonetic alphabets.
 - All aircraft call signs should be said using the phonetic alphabets.
-- If you find it difficult to speak fluently using the phonetic alphabets, practice spelling common words that you see throughout the day.
-- Never assume instructions if you are not clear what they are. Always copy and readback all ATC instructions.
+- If you find it difficult to speak fluently using the phonetic alphabets, practice spelling common words that you see throughout the day using the phonetic alphabets.
+- Never assume instructions if you are not clear what those instructions were. Always copy and readback all ATC instructions.
 
 
 
