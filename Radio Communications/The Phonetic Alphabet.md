@@ -55,7 +55,7 @@ All pilots should be familiar with the phonetic alphabets in order to communicat
 
 ## The Basics
 
-The phonetic alphabet's strength is that that each letter and number is has a distinct pronunciation. This makes it nearly impossible to confuse letters that originally sound similar like "B" and "D" or words like "Pan" and "Land." Numbers are also treated the same to avoid communication barriers between different languages. For example, the number 9 may be misinterpreted as "NO" to a person whose native language is German.
+The phonetic alphabet's strength is that each letter and number has a distinct pronunciation. This makes it nearly impossible to confuse letters that originally sound similar like "B" and "D" or words like "Pan" and "Land." Numbers are also treated the same to avoid communication barriers between different languages. For example, the number 9 may be misinterpreted as "NO" to a person whose native language is German.
 
 _The table below indicates the proper way to pronounce each character._
 
