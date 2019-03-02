@@ -45,7 +45,7 @@ The phonetic alphabet provides a standardized method of communicating voice mess
 
 ## A Brief Look At Why It Exists
 
-![](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/0001-1435764785.png)
+![](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/0001-2443557690.png)
 
 The phonetic alphabet, officially designated as the International Radiotelephony Spelling Alphabet, and also referred to as the International Civil Aviation Organization (ICAO) phonetic alphabet, is the most widely used radiotelephone spelling alphabet. It was adopted in the early 1930s and have changed slightly overtime to accommodate many uses.
 
@@ -57,7 +57,7 @@ All pilots should be familiar with the phonetic alphabets in order to communicat
 
 ## The Basics
 
-![](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/0001-2443557690.png)
+![](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/0001-7866908099.png)
 
 The phonetic alphabet's strength is that each letter and number has a distinct pronunciation. This makes it nearly impossible to confuse letters that originally sound similar like "B" and "D" or words like "Pan" and "Land." Numbers are also treated the same to avoid communication barriers between different languages. For example, the number 9 may be misinterpreted as "NO" to a person whose native language is German.
 
