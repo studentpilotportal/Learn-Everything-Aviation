@@ -70,7 +70,7 @@ On airports/heliports where there is an active tower, all ground vehicles, equip
 
 _ATC Light Signals: Ground Vehicles, Equipment, and Personnel_
 
-Color and Type of Signal | Movement of Vehicles,<br />Equipment and Personnel
+Color and Type of Signal | Movement of Vehicles, Equipment, and Personnel
 ------------- | -------------
 Steady green | Cleared to cross, proceed or go
 Flashing green | Not applicable

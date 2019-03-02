@@ -33,7 +33,7 @@ Provided and maintained by [https://studentpilotportal.com](https://studentpilot
 
 ---
 
-Preflight weather briefings provide pilots with vital weather information that he/she is expected to encounter along their route of flight and at the destination. Pilots are strongly encourage to obtain a full weather briefing (regardless of the duration of the flight) to ensure that the most up-to-date weather is received and to have an overview of the weather conditions prior to departure.
+Preflight weather briefings provide pilots with vital weather information at the departure airport, along their route of flight, and at the destination airport. Pilots are strongly encourage to obtain a full weather briefing (regardless of the duration of the flight) to ensure that the most complete and up-to-date weather is received prior to departure.
 
 ---
 
@@ -47,11 +47,11 @@ Preflight weather briefings provide pilots with vital weather information that h
 
 Prior to every flight, pilots should obtain a briefing from a specialist at a Flight Service Station (FSS), Automated Flight Service Station (AFSS), or the National Weather Service (NWS).
 
-Currently, the National Oceanic and Atmospheric Agency (NOAA) serves as the parent organization of the NWS, which provides the aviation industry in the U.S. with most of its raw weather information. Nearly all other weather providers simply repackage their information in a more user-friendly and easier to understand format.
+Currently, the National Oceanic and Atmospheric Agency (NOAA) serves as the parent organization of the NWS, which provides the aviation industry in the U.S. with most of its raw weather information. Nearly all other weather providers repackage NOAA's weather information and remarket it in a more user-friendly and easier to understand format.
 
-Flight Service Stations (FSS) are the primary sources for obtaining preflight briefings and to file flight plans by phone or online. **Flight Service Specialists are qualified and certified as Pilot Weather Briefers by the FAA they are only authorized to translate and interpret available forecasts and reports, not make original forecasts.**
+Flight Service Stations (FSS) are the primary sources for obtaining preflight briefings and to file flight plans by phone or online. **Flight Service Specialists are qualified and certified as Pilot Weather Briefers by the FAA. They are only authorized to translate and interpret available forecasts and reports, not make original forecasts.**
 
-When obtaining a weather briefing, pilots need to specify what type of briefing they want, appropriate background information about the flight and the aircraft's identification or the pilot's name. This will enable the briefer to tailor the information to the pilot's intended route of flight.
+When obtaining a weather briefing, pilots need to specify what type of briefing they want, appropriate background information about the flight and the aircraft's identification or the pilot's name. It may also be helpful to a briefer to know if the pilot is instrument-rated. This will enable the briefer to tailor the information to the pilot's intended route of flight and provide the most relevant information.
 
 **There are three (3) types of weather briefings:**
 1. Standard Briefing
@@ -70,15 +70,15 @@ For international flights, it is highly advised to check data as soon as practic
 
 The briefer will automatically provide the following information in the sequence listed below, except as noted when it is applicable to your proposed flight:
 
-- **Adverse Conditions.** Significant weather or aeronautical information that might influence the pilot to alter or cancel the proposed flight. This can include hazardous weather conditions like thunderstorms, turbulence, low ceilings or visibility, and icing. Pilots should be caution to any weather that may reduce flight minimums below VFR or IFR conditions and forecast icing, especially if the aircraft is not certified for operating in icing conditions. _Flying into areas of icing or weather below minimums could result in lost of control of the aircraft, disorientation, or death._
+- **Adverse Conditions.** Significant weather or aeronautical information that might influence the pilot to alter or cancel the proposed flight. This can include hazardous weather conditions like thunderstorms, turbulence, low ceilings or visibility, and icing. Pilots should be caution to any weather that may reduce flight minimums below VFR or IFR conditions and forecast icing, especially if the aircraft is not certified for operating in icing conditions. _Flying into areas of icing or weather below minimums could result in lost of control of the aircraft, disorientation, and/or death._
 
-- **VFR Flight Not Recommended.** If VFR flight is proposed and sky conditions or visibilities are present or forecast (both surface or aloft) and the briefer's judgement allow him/her to conclude that VFR is highly unlikely in these conditions, a "VFR Flight Not Recommended" advisory is given. It is important to note that the final decision on whether flight can be conducted safety rests solely with the pilot. The pilot should assess his/her experience and ratings along with the aircraft's available equipment, capabilities, and limitations to make a proper decision, commonly referred to as the "go or no go" decision.
+- **VFR Flight Not Recommended.** If VFR flight is proposed and sky conditions or visibilities are present or forecast (both surface or aloft) and the briefer's judgement allow him/her to conclude that VFR is highly unlikely in these conditions, a "VFR Flight Not Recommended" advisory is given. It is important to note that the final decision on whether flight can be conducted safety rests solely with the pilot in command. The pilot should assess his/her experience and ratings along with the aircraft's available equipment, capabilities, and limitations to make a proper decision, commonly referred to as the "go or no go" decision.
 
 - **Synopsis.** A brief statement describing the type, location, and movement of weather systems and/or air masses which might affect the proposed flight.
 
 - **Current Conditions.** A summary of reported weather conditions from all available sources such as METARs, PIREPs, and RAREPs. If the proposed departure time is more than two hours, this element may be omitted as the conditions may differ. However, the pilot may still request to have this information provided.
 
-- **En Route Forecast.** A summary of en route conditions forecast for the proposed route of flight. The sequence of the forecast usually involves a typical flight starting from departure-climbout, en route, and descent.
+- **En Route Forecast.** A summary of en route conditions expected during the proposed route of flight. The sequence of the forecast usually involves a typical flight: starting from departure, climb out, en route, and descent.
 
 - **Destination Forecast.** The destination forecast (TAF), including any significant changes within 1 hour before and after the planned estimated time of arrival (ETA).
 
@@ -93,8 +93,8 @@ _Additional Data A Pilot May Request_
 
 Pilots may obtain the following from flight service station briefers upon request:
 - Approximate density altitude data
-- Information regarding item such as air traffic services and rules, customs/immigration procedures, ADIZ rules, and search and rescue
-- GPS RAIM availability for 1  hour before to 1 hour after ETA, or a time specified by the pilot
+- Information regarding items such as air traffic services and rules, customs/immigration procedures, ADIZ rules, and search and rescue
+- GPS RAIM availability for 1 hour before to 1 hour after ETA, or a time specified by the pilot
 - Any other assistance as required
 
 
@@ -103,7 +103,7 @@ Pilots may obtain the following from flight service station briefers upon reques
 
 An abbreviated briefing is an shortened version of a standard briefing and is used to supplement mass disseminated data (such as information obtained from a Transcribed Weather Broadcast), to update a previous weather briefing, or when only one or two specific items are needed from a standard briefing.
 
-When requesting an abbreviated briefing, provide the briefer with appropriate information relating to the flight such as the departure time, route of flight, the time the previous briefing was received, and/or the specific information needed. It is recommended that the source of the information already received be provided to the briefer so that he/she can limit the briefing to the information that has not yet been received and any changes in meteorological/aeronautical conditions. The briefer will usually follow the sequence shown for Standard Briefing and will advise you if adverse conditions (both meteorological and aeronautical) are present or forecast; additional details regarding these conditions can be provided upon the pilot's request.
+When requesting an abbreviated briefing, provide the briefer with appropriate information relating to the flight such as the departure time, route of flight, the time the previous briefing was received, and/or the specific information needed. It is recommended that the source of the information already received be provided to the briefer so that he/she can limit the briefing to the information that has not yet been received and any changes in meteorological/aeronautical conditions. The briefer will usually follow the sequence used during Standard Briefings and will advise you if adverse conditions (both meteorological and aeronautical) are present or forecasted; additional details regarding these conditions can be provided upon the pilot's request.
 
 For international flights, it is highly advised to check data as soon as practical after entering foreign airspace, as the information obtained beforehand may be inaccurate or incomplete.
 
@@ -117,15 +117,15 @@ Pilots should request an outlook briefing whenever the proposed departure time i
 
 ## Obtaining Information Inflight
 
-Pilots are encouraged to obtain preflight briefings by telephone or in person before departure, briefings may also be received online. In those cases where you need to obtain a preflight briefing or an update to a previous briefing via radio, contact the nearest FSS. Just like over the phone, provide the briefer with appropriate background information such as the type of briefing you require. Information will be provided in the same sequence as the standard briefing. Briefings received in flight are not meant to provide you with a full standard briefings, but rather provide you with the most current en route weather.
+Pilots are encouraged to obtain preflight briefings by telephone or in person before departure, briefings may also be received online. In those cases where you need to obtain a preflight briefing or an update to a previous briefing via radio, contact the nearest FSS. Just like over the phone, provide the briefer with appropriate background information such as the type of briefing you require. Information will be provided in the same sequence as the standard briefing. However, briefings received in flight are not meant to provide you with a full standard briefing, but rather provide you with the most current en route weather.
 
-Advanced technology like in-flight datalink weather services now enable some aircraft to receive textual and graphical datalinked weather products and other information during flight. It is crucial that the pilot use these products in a caution manner dividing his/her time between looking inside the cockpit and seeing and avoiding other aircraft during flight. Also, it is important that the most current weather be used in order to conduct the flight safely.
+Advanced technology like in-flight datalink weather services now enable some aircraft to receive textual and graphical data link weather products and other information during flight. It is crucial that the pilot use these products in a caution manner dividing his/her time between looking inside the cockpit and outside to see-and-avoid other aircraft during flight. It is important that the most current weather be used in order to conduct the flight safely.
 
 
 
 ## Getting the Most Out of Each Briefing
 
-A good weather briefing begins before you contact a briefer. You should being developing an awareness of the overall weather a several days before the proposed flight whenever possible. Start by monitoring local weather patterns through TV channels such as The Weather Channel. The day before the flight, request an outlook weather briefing from a credible source such as Flight Service.
+A good weather briefing begins before you contact a briefer. You should begin developing an awareness of the overall weather a several days before the proposed flight whenever possible. Start by monitoring local weather patterns through TV channels such as The Weather Channel. The day before the flight, request an outlook weather briefing from a credible source such as Flight Service.
 
 Before contacting a Flight Service Station, have a general route of flight and proposed departure time available.
 
@@ -168,21 +168,21 @@ Get in-flight weather updates, sources of weather information include the follow
 - FSS
 - Hazardous In-Flight Weather Advisory Service.
 - Centers and terminal area facilities will broadcast a SIGMET or a Center Weather Advisory (CWA) alert once on all frequencies upon receipt.
-- En route weather via datalink.
+- En route weather via data link.
 
-You can also ask the controller for PIREPs (about ride, icing, and so on) received from other aircraft. To the extent possible, centers and terminal area facilities will issue pertinent information on weather in the immediate area and airport and, when requested, will help pilots avoid hazardous weather areas. Destination/terminal area arrival weather can be obtained via radio and/or datalink from the following sources, as available:
+You can also ask the controller for PIREPs (regarding turbulence, icing, etc.) reported by other aircraft. To the extent possible, centers and terminal area facilities will issue pertinent information on weather in the immediate area and airport and, when requested, will help pilots avoid hazardous weather areas. Destination/terminal area arrival weather can be obtained via radio and/or data link from the following sources, as available:
 - EFAS (Flight Watch).
 - Flight Service or other ATC facilities.
 - UNICOM (evaluate carefully).
 - Automatic Terminal Information Service.
 - AWOS/Automated Surface Observation System.
-- Terminal area datalink
+- Terminal area data link
 
 
 
 _If you Decide Not To Go_
 
-You always have the option to delay or postpone a flight (and get a later weather briefing) or cancel a trip entirely if the weather is beyond your capabilities and/or that of your equipment. Continue to monitor the weather to learn from your decision
+You always have the option to delay or postpone a flight (and get a later weather briefing) or cancel a trip entirely if the weather is beyond your capabilities and/or that of your aircraft and equipment. Continue to monitor the weather to learn from your decision.
 
 ## Safety Considerations For All Pilots
 
@@ -192,24 +192,24 @@ Here is the list:
 - **DON'T** fly in or near thunderstorms. Scattered thunderstorms may be safely circumnavigated, but do not try to fly through or under one. You will encounter severe downdrafts that the aircraft is not powerful enough to recover from.
 - **DON'T** continue VFR into Instrument Meteorological Conditions (IMC). Wait it out or turn around if you find en route weather lowering below your personal minimums.
 - **DON'T** forget that areas en route, or even near airports, may be below VFR minimums, even though reporting stations are at or near VFR minimums. Be especially cautious when the temperature and dewpoint spread is 3 &deg;C or less - fog may form.
-- **DON'T** attempt to fly above weather hoping to find a hole in the clouds at the other end near you destination to get ATC to talk you down if you are stuck above the clouds. Set higher minimums during flight at night. Scud clouds, lower clouds, and even the horizon may be difficult or impossible to see on dark nights. Always stay above the highest terrain until a safe landing is assured.
-- **DON'T** fly into areas of rain when the air temperature is near freezing. Ice can form on the windshield, impairing forward vision, and worse, it can form on the wings, which decreases aircraft performance. Remember, flight into known icing conditions is prohibited for all aircraft no properly certificated for flight in icing conditions or not properly equipped with ice protection equipment.
+- **DON'T** attempt to fly above weather hoping to find a hole in the clouds to descend through or get ATC to talk you down near you destination. Set higher minimums during flight at night. Scud clouds, lower clouds, and even the horizon may be difficult or impossible to see on dark nights. Always stay above the highest terrain until a safe landing is assured.
+- **DON'T** fly into areas of rain when the air temperature is near freezing. Ice can form on the windshield, impairing forward vision, and worse, it can form on the wings, which decreases aircraft performance. Remember, flight into known icing conditions is prohibited for all aircraft not properly certificated for flight in icing conditions or not properly equipped with ice protection equipment.
 - **DO contact Flight Watch, Flight Service, or any available ATC facility immediately if you get caught in weather or need help. Specialists are highly trained to assist you in these situations, but can only help you if you contact them.**
 
 
 
 ### Tips
 
-- Absence of the "VFR Flight Not Recommended" does not guarantee a flight free from adverse weather effects.
+- Absence of the "VFR Flight Not Recommended" does not guarantee a flight is free from adverse weather effects.
 - The initial three elements (adverse conditions, VFR Flight Not Recommended, and Synopsis) may be combined in any order the briefer believes will help describe the conditions more clearly.
 - Pilots flying into areas of minimal VFR weather could encounter deteriorating conditions not forecasted that may place the aircraft outside the pilot’s ratings and experience level, which could result in spatial disorientation, loss of
 control of the aircraft, and/or death.
 - NOTAMS that include Special Use Airspace, such as military operations area (MOA), military training route (MTR), and warning areas are only provided upon request of the pilot.
 - NOTAM information may be combined with current conditions when a briefer believes it is logical to do so.
-- Published NOTAM (D) information and Flight Data Center (FDC) NOTAMs are not included in pilot briefings unless requested by the pilot.
+- NOTAM(D), which includes published information, and NOTAM(FDC) which includes mandatory issuances and compliance such as safety hazards or Temporary Flight Restrictions, are not included in pilot briefings unless requested by the pilot.
 - Pilot are strongly encouraged to request updated information from ATC facilities while in flight.
 - To decrease the chances of a briefer overlooking an item, save any questions you have until the briefing has been completed, this way the briefer can present the information in a logical sequence.
-- Using an online briefing system while on the telephone with a briefer can help give you a better overview of the weather conditions since you are able to view the same maps and charts that the briefer is using.
+- Using an online briefing system while on the telephone with a briefer can help give you a better overview of the weather conditions since you are able to view the same maps and charts that the briefer is using. It is most helpful since you are able to ask questions about any weather you may not understand.
 
 
 
@@ -227,7 +227,7 @@ control of the aircraft, and/or death.
 
 [['To get a complete weather briefing for a planned flight, the pilot should request', 'a general briefing.', 'an abbreviated briefing.', 'a standard briefing.', 'C']]
 
-[['What three types of weather briefings are available to pilots?', 'General, preflight, and post-flight.', 'Standard abbreviated, and outlook.', 'Preflight, en route, and post-flight.', 'B']]
+[['What three types of weather briefings are available to pilots?', 'General, preflight, and post-flight.', 'Standard, abbreviated, and outlook.', 'Preflight, en route, and post-flight.', 'B']]
 
 [['Which type of weather briefing should a pilot request to supplement mass disseminated data?', 'An outlook briefing', 'A supplemental briefing', 'An abbreviated briefing', 'C']]
 
