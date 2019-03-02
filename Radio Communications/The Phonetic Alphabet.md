@@ -45,6 +45,8 @@ The phonetic alphabet provides a standardized method of communicating voice mess
 
 ## A Brief Look At Why It Exists
 
+![](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/0001-1435764785.png)
+
 The phonetic alphabet, officially designated as the International Radiotelephony Spelling Alphabet, and also referred to as the International Civil Aviation Organization (ICAO) phonetic alphabet, is the most widely used radiotelephone spelling alphabet. It was adopted in the early 1930s and have changed slightly overtime to accommodate many uses.
 
 The FAA's main use of the phonetic alphabet is to ease the communication of information when adverse communications conditions exist, such as poor frequency quality or frequency congestion.
@@ -54,6 +56,8 @@ All pilots should be familiar with the phonetic alphabets in order to communicat
 
 
 ## The Basics
+
+![](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/0001-2443557690.png)
 
 The phonetic alphabet's strength is that each letter and number has a distinct pronunciation. This makes it nearly impossible to confuse letters that originally sound similar like "B" and "D" or words like "Pan" and "Land." Numbers are also treated the same to avoid communication barriers between different languages. For example, the number 9 may be misinterpreted as "NO" to a person whose native language is German.
 
@@ -102,6 +106,8 @@ Z | Zulu | (ZOO-LOO)
 
 ## Saying Figures
 
+![](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/0001-5466876984.png)
+
 When communicating round figures that indicate hundreds and thousands, such as those for ceiling heights, and upper wind levels state the separate digits of the thousands plus the hundreds if appropriate.
 
 All other figures like airways and jet routes must be transmitted by pronouncing each digit. For example, if stating an aircraft callsign or repeating instructions that include figures.
@@ -127,6 +133,8 @@ N35281 | november three five two eight one
 
 ## Saying Altitudes and Flight Levels
 
+![](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/0001-4345771223.png)
+
 Indicating altitudes and flight levels are very similar to saying numbers. For altitudes up to but not including 18,000 feet MSL, state the separate digits of the thousands plus the hundreds if appropriate. At and above 18,000 feet MSL (FL180), state the words "flight level" followed by the separate digits of the flight level.
 
 _Example: Communicating Altitudes and Flight Levels_
@@ -135,6 +143,7 @@ Example | Speech
 -------- | -------- |
 1,500 | one thousand five hundred
 8,000 | eight thousand
+11,500 | one one thousand five hundred
 12,000 | one two thousand
 14,500 | one four thousand five hundred
 FL190 | Flight Level One Niner Zero
@@ -143,6 +152,8 @@ FL245 | Flight Level Two Four Five
 
 
 ## Saying Directions
+
+![](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/0001-1132400978.png)
 
 When transmitting directions over a radio frequency, standard procedure is that all three digits relating to bearing, course, heading, or wind direction always be reference in relation to magnetic north. If necessary to communicate information in relation to true north, the word "true" must be added where applicable.
 
@@ -160,6 +171,8 @@ Example | Speech
 
 ## Saying Speeds
 
+![](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/0001-7887986536.png)
+
 Transmitting speeds are also similar to transmitting standard numbers. The separate digits of the speed followed by the word "knots" should be communicated. Controllers may omit the word "knots" when using terminology that already indicates that the controller is referring to speed instructions or procedures. For example, "reduce/increase speed to one two zero."
 
 When referring to Mach numbers, the word "Mach" (pronounced "mahk"), should precede the numbers.
@@ -176,6 +189,8 @@ Example | Speech
 
 
 ## Saying Time
+
+![](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/0001-0008975944.png)
 
 The FAA uses Coordinated Universal Time (UTC) for all operations. The word "local" or the time zone equivalent must be used to denote local when local time is given during radio and telephone communications. The term "Zulu" may be used to denote UTC.
 
