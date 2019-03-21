@@ -102,7 +102,7 @@ Contributions are what make the open source community such an amazing place to b
 
 Distributed under the Apache-2.0 License. See `LICENSE` for more information.
 
-Copyright © 2018 by Othneil I. Drew and Student Pilot Portal.
+Copyright © 2018 by Student Pilot Portal, LLC
 
 **None of the material in this Work supersedes any documents,
 procedures, or regulations issued by the Federal Aviation
