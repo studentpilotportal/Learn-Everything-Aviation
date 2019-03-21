@@ -44,7 +44,7 @@ Each day there are more than 43,000 flights handled by the FAA. At any given mom
 
 ## What is Airspace?
 
-![Airspace Overview Chart](https://studentpilotportal.com/photos/learn/vfr-airspaces-diagram.jpg)
+![Airspace Overview Chart](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/0002-2545567854.jpg)
 
 Airspace can be defined as the imaginary boundaries of the atmosphere where aircraft flight operations are conducted. There are two categories of airspace: Regulatory and Nonregulatory. Regulatory airspace includes Class A, B, C, D, E airspace, restricted areas, and prohibited areas. Nonregulatory areas consists of military operations areas (MOA), warning areas, alert areas, and controlled firing areas (CFA), and national security areas (NSA). There is no Class F airspace in the U.S. National Aerospace System.
 
@@ -62,7 +62,7 @@ Controlled airspace is the term used to refer to the different classification of
 
 ## Basic VFR Weather Minimums and Cruising Altitudes
 
-![Aviation Clouds distance minimum example](https://studentpilotportal.com/photos/learn/clouds.png)
+![Aviation Clouds distance minimum example](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/0002-3323435466.png)
 
 **Basic VFR Weather Minimums**
 
@@ -104,7 +104,7 @@ _Note: Altitudes are referred to as Flight Levels (FL) when aircraft are flying 
 
 ## Class A Airspace
 
-![Class A Dimensions Example](https://studentpilotportal.com/photos/learn/classA.png)
+![Class A Dimensions Example](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/0002-9989788767.png)
 
 Class A airspace is controlled airspace that extends from 18,000 feet MSL up to and including FL600 (60,000 feet MSL). Altitudes within Class A airspace is referred to as Flight Levels (FL). Class A airspace is not depicted on any aeronautical charts, but covers the entire U.S. and extends horizontally 12 nautical miles off the coast of the 48 contiguous States and Alaska within areas of domestic radio navigational signal or ATC radar coverage, and within which domestic produces are applied. Pilots who operate in this airspace use Instrument Flight Rules (IFR) that show established air routes.
 
@@ -129,7 +129,7 @@ Below are the requirements and other information pertaining to Class A airspace.
 
 ## Class B Airspace
 
-![Class B Airspace Depiction](https://studentpilotportal.com/photos/learn/classB.png)
+![Class B Airspace Depiction](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/0002-4588736632.png)
 
 Class B airspace is controlled airspace that is established to separate the flow of all airport arrivals and departures; this is why Class B airspace is usually found at major airports around the world. Class B airspace is depicted on Sectional Charts, IFR En Route Low Altitude Charts, and Terminal Area Charts as a solid blue line. It usually has a series of solid blue lines surrounding each other and its shape is tailored to the airport's departure and arrival routes. Terrain and other land features also influence the boundaries of Class B airspace.
 
@@ -161,7 +161,7 @@ Below are the requirements and other information pertaining to Class B airspace.
 
 ## Class C Airspace
 
-![Class C Airspace Depiction](https://studentpilotportal.com/photos/learn/classC.png)
+![Class C Airspace Depiction](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/0002-2545585854.png)
 
 Class C airspace is controlled airspace that generally extends from the surface to 4,000 feet MSL above the airport elevation and surrounding airports that have an operational control tower, are serviced by a radar approach control, and that have a certain number of IFR or passenger operations. Class C is tailored to the surrounding area and usually consists of a 5 nautical mile core radius (surface up to 4,000 feet MSL) and a 10 nautical mile shelf (1,200 feet up to 4,000 feet above the airport elevation). This airspace is charted on Sectional Charts, IFR En Route Low Altitude, and Terminal Area Charts, where appropriate, as a solid magenta circle.
 
@@ -184,7 +184,7 @@ Below are the requirements and other information pertaining to Class C airspace.
 
 ## Class D Airspace
 
-![Class D Airspace Depiction](https://studentpilotportal.com/photos/learn/classD.png)
+![Class D Airspace Depiction](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/0002-8897536400.png)
 
 Class D airspace is controlled airspace that usually extends from the surface up to 2,500 feet MSL above airport elevation surrounding airports that have an operational control tower. This airspace is also tailored specifically to accommodate an airport published instrument procedures. If instrument procedures are published for an airport with Class D airspace, the tower operations will be listed in the Chart Supplement informing the pilot whether the tower is part-time or full-time. Where a Class D surface area is part-time, the airspace may revert to either a Class E surface area or Class G airspace. When a part-time Class D surface area changes to Class G, the surface area becomes Class G airspace up to, but not including, the overlying controlled airspace. Normally, the overlying controlled airspace is the Class E transition area airspace that being at either 700 feet or 1,200 feet AGL - this can be determined by consulting the applicable VFR Sectional or Terminal Area Charts.
 
@@ -207,7 +207,7 @@ Below are the requirements and other information pertaining to Class D airspace.
 
 ## Class E Airspace
 
-![Class E Airspace Depiction](https://studentpilotportal.com/photos/learn/classE.png)
+![Class E Airspace Depiction](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/0002-5213044544.png)
 
 Class E airspace is a type of controlled airspace that is designated to serve a variety of terminal or en route purposes such as an area designated for an airport where a control tower is not in operation, an extension to a surface area, en route domestic areas, airspace used for transition, Federal Airways and Low-Altitude RNAV routes, and offshore areas. Class E dimensions consist of three depictions.
 
@@ -236,7 +236,7 @@ Below are the requirements and other information pertaining to Class E airspace.
 
 ## Class G Airspace
 
-![Class G Airspace Depiction](https://studentpilotportal.com/photos/learn/classG.jpg)
+![Class G Airspace Depiction](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/0002-8999636485.jpg)
 
 Class G airspace is uncontrolled airspace that has not been designated as either Class A, B, C, D or E airspace. Class G airspace usually extends from the surface to the base of the overlying region, Class E airspace (usually at 700 - 1200 feet AGL). However, in some high terrain areas Class G can extend as far as 14,500 feet MSL. Pilots are reminded that in addition to altitude or flight level requirements to remain at least 1,000 feet (2,000 feet in designated mountainous terrain) above the highest obstacle within a horizontal distance of 4 nautical miles from the course flown. Pilots are required to hold at least a Student Pilot Certificate to operate within this airspace.
 
@@ -259,6 +259,8 @@ In addition to the basic weather minimums, below are the requirements and other 
 
 ## Hierarchy of Overlapping Airspace Designations
 
+![Airspace Hierarchy](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/0002-1234234769.png)
+
 When one or more airspace overlaps another, the airspace with the more restrictive operating rules should be followed where applicable. For the purpose of clarification:
 - Class A airspace is more restrictive than Class B, C, D, E, or G.
 - Class B airspace is more restrictive than Class C, D, E, or G.
@@ -270,7 +272,7 @@ When one or more airspace overlaps another, the airspace with the more restricti
 
 ## Special Use Airspace
 
-![VFR Chart Alert Area Example: Concentrated Student Jet Training](https://studentpilotportal.com/photos/learn/speci_airspace.png)
+![VFR Chart Alert Area Example: Concentrated Student Jet Training](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/0002-5854236998.png)
 
 The FAA defines special use airspace as any airspace where activity must be confined due to its nature and/or limitations exist for those aircraft not participating in such activities. Special use airspace includes prohibited areas, restricted areas, warning areas, military operations areas, alert areas, control firing areas, and national security areas.
 
@@ -313,7 +315,7 @@ National Security Areas consist of locations where there is a requirement for in
 
 ## Other Airspace Areas
 
-![VFR Chart Skydive Area Depiction](https://studentpilotportal.com/photos/learn/skydive_example.png)
+![VFR Chart Skydive Area Depiction](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/0002-5854352100.png)
 
 **Airport Advisory/Information Services**
 
@@ -390,7 +392,7 @@ National Security Areas consists of airspace of defined vertical and lateral dim
 
 ### Knowledge Check
 
-[['At what altitude shall the altimeter be set to 29.92, when climbing to FL240?', '14,500 feet MSL', '18,000 feet MSL', '24,000 feet MSL', 'B']]
+[['At what altitude shall the altimeter be set to 29.92 when climbing to FL240?', '14,500 feet MSL', '18,000 feet MSL', '24,000 feet MSL', 'B']]
 
 [['The basic VFR weather minimums for operating an aircraft within Class D airspace are', '500-foot ceiling and 1 mile visibility.', '1,000-foot ceiling and 3 miles visibility.', 'clear of clouds and 2 miles visibility', 'B']]
 
