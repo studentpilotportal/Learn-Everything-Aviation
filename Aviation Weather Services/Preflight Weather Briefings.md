@@ -1,7 +1,7 @@
 <!--
 
 *************************************************
-Copyright © 2018 by Othneil I. Drew and Student Pilot Portal.
+Copyright © 2018 by Student Pilot Portal, LLC
 
 None of the material in this Work supersedes any documents,
 procedures, or regulations issued by the Federal Aviation
@@ -45,6 +45,8 @@ Preflight weather briefings provide pilots with vital weather information at the
 
 ## Types of Weather Briefings
 
+![Types of Weather Briefings](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/0004-6477648399.png)
+
 Prior to every flight, pilots should obtain a briefing from a specialist at a Flight Service Station (FSS), Automated Flight Service Station (AFSS), or the National Weather Service (NWS).
 
 Currently, the National Oceanic and Atmospheric Agency (NOAA) serves as the parent organization of the NWS, which provides the aviation industry in the U.S. with most of its raw weather information. Nearly all other weather providers repackage NOAA's weather information and remarket it in a more user-friendly and easier to understand format.
@@ -61,6 +63,8 @@ When obtaining a weather briefing, pilots need to specify what type of briefing 
 
 
 ## Standard Briefing
+
+![Aircraft Taxiing for Departure](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/0004-7758746390.png)
 
 Pilots should request a standard briefing when planning a flight and no previous briefing or preliminary information through mass disseminated data (such as information obtained from a Transcribed Weather Broadcast (TWEB)) has been received.
 
@@ -101,6 +105,8 @@ Pilots may obtain the following from flight service station briefers upon reques
 
 ## Abbreviated Briefing
 
+![Aircraft Parked on Ramp](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/0004-9909868788.png)
+
 An abbreviated briefing is an shortened version of a standard briefing and is used to supplement mass disseminated data (such as information obtained from a Transcribed Weather Broadcast), to update a previous weather briefing, or when only one or two specific items are needed from a standard briefing.
 
 When requesting an abbreviated briefing, provide the briefer with appropriate information relating to the flight such as the departure time, route of flight, the time the previous briefing was received, and/or the specific information needed. It is recommended that the source of the information already received be provided to the briefer so that he/she can limit the briefing to the information that has not yet been received and any changes in meteorological/aeronautical conditions. The briefer will usually follow the sequence used during Standard Briefings and will advise you if adverse conditions (both meteorological and aeronautical) are present or forecasted; additional details regarding these conditions can be provided upon the pilot's request.
@@ -111,11 +117,15 @@ For international flights, it is highly advised to check data as soon as practic
 
 ## Outlook Briefing
 
+![Pilot Planning a Flight](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/0004-5512132244.png)
+
 Pilots should request an outlook briefing whenever the proposed departure time is 6 or more hours from the time of the briefing. All available forecast data applicable to the proposed flight is provided and is intended for planning purposes only. It is strongly recommended that the pilot obtain a standard or abbreviated briefing prior to departure in order to obtain updated information regarding adverse conditions, current conditions, forecasts, winds aloft, and NOTAMs.
 
 
 
 ## Obtaining Information Inflight
+
+![Aircraft Inflight](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/0004-4555432880.jpg)
 
 Pilots are encouraged to obtain preflight briefings by telephone or in person before departure, briefings may also be received online. In those cases where you need to obtain a preflight briefing or an update to a previous briefing via radio, contact the nearest FSS. Just like over the phone, provide the briefer with appropriate background information such as the type of briefing you require. Information will be provided in the same sequence as the standard briefing. However, briefings received in flight are not meant to provide you with a full standard briefing, but rather provide you with the most current en route weather.
 
@@ -124,6 +134,8 @@ Advanced technology like in-flight datalink weather services now enable some air
 
 
 ## Getting the Most Out of Each Briefing
+
+![Airspace Overview Chart](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/0004-0000126783.png)
 
 A good weather briefing begins before you contact a briefer. You should begin developing an awareness of the overall weather a several days before the proposed flight whenever possible. Start by monitoring local weather patterns through TV channels such as The Weather Channel. The day before the flight, request an outlook weather briefing from a credible source such as Flight Service.
 
@@ -146,6 +158,8 @@ In order to receive the best service and most accurate information state what ty
 
 
 ## Making the "Go" or "No Go" Decision
+
+![Go or No Go Decision](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/0004-4453788790.png)
 
 Good weather judgement is a combination of knowledge, skills, and experience. **One of the top ways to improve your go or no-go decision making skills are by setting personal weather minimums based on your level of training and experience.** For example, you might use personal minimums of 2,000 feet and 5 miles instead of the regulatory VFR minimums of 1,000 feet and 3 miles. If the weather is expected to go below your personal minimums, you automatically make a no-go decision. You may then gradually reduce you personal minimums to whatever limits you find comfortable at or above the legal limits.
 
@@ -185,6 +199,8 @@ _If you Decide Not To Go_
 You always have the option to delay or postpone a flight (and get a later weather briefing) or cancel a trip entirely if the weather is beyond your capabilities and/or that of your aircraft and equipment. Continue to monitor the weather to learn from your decision.
 
 ## Safety Considerations For All Pilots
+
+![Airspace Overview Chart](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/0004-6479901213.png)
 
 Having complete situational awareness of the overall weather around you will increase your likelihood of completing a flight safely. The FAA has compiled a list of helpful "Don'ts" for all pilots from beginner to pro.
 

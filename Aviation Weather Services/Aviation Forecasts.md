@@ -29,7 +29,7 @@ Provided and maintained by [https://studentpilotportal.com](https://studentpilot
 
 
 
-# Aircraft Documents
+# Aviation Forecasts
 
 ---
 
@@ -68,12 +68,15 @@ Area Forecasts covers general weather conditions and visual meteorological condi
 Inflight weather advisories also provide enroute aircraft with forecasts of potentially hazardous weather. These advisories are also available prior to departure during flight training. An inflight weather advisory is issued in the form of an AIRMET, SIGMET, or convective SIGMET.
 
 _AIRMET (WAs)_
+
 AIRMENTs or Airmen Meteorological Information are issued every six hours with amendments issued as necessary for weather phenomena that are of operational interest to all aircraft; is reports moderate icing, moderate turbulence, sustained winds of 30 knots or more at the surface, ceiling less than 1,000 feet and/ or visibility less than 3 miles affecting over 50 percent of an area and extensive mountain obscuration. AIRMETs use the identifier Sierra for IFR conditions and mountain obscuration, Tango for turbulence, strong surface winds, and low-level wind shear, and Zulu for icing and freezing levels.
 
 _SIGMET (WSs)_
+
 SIGMETs are issued for hazardous weather (other than convective activity) that is considered significant to all aircraft. SIGMET criteria include severe icing, severe or extreme turbulence, clear air turbulence, dust storm and sandstorm lowering visibility to less than three miles and volcanic ash. Valid for four hours but if associated with a hurricane then valid for six hours.
 
 _Convective SIGMET (WST)_
+
 Convective SIGMETs, Convective Significant Meteorological Information, are issued for hazardous convective weather that is significant to the safety of all aircraft. include tornados, lines of thunderstorms, thunderstorms over a wide area, embedded thunderstorms, hail greater than 3/4 of an inch and wind gust to 50 knots or greater.
 
 
