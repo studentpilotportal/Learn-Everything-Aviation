@@ -29,7 +29,7 @@ Provided and maintained by [https://studentpilotportal.com](https://studentpilot
 
 
 
-# Basic Ramp Hand Signals
+# Basic Aircraft Ramp Hand Signals
 
 ---
 
@@ -45,11 +45,15 @@ Ramp hand signals provide pilots and line personnel a method of communicating ef
 
 ## All Clear
 
+![All Clear All Clear Signal Illustration](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/0005-4525423594.png)
+
 The all clear signal tells the pilot that the aircraft is cleared of any obstructions, ground service equipment, and ramp personnel. It usually signals the beginning of a departure sequence, but does not necessarily mean that the pilot may start engines or move the aircraft.
 
 
 
 ## Start Engine
+
+![Start Engine Signal Illustration](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/0005-4588575301.png)
 
 The start engine signal tells the pilot that he/she may now start the engine that the signalman is pointing to. For aircraft with more than two engines, the signalman may indicate the engine to be started by showing a corresponding finger count pointing to the side the engine is on. For example, the signalman may hold up four fingers while pointing to the left side of the aircraft when viewing the aircraft from the front. For single engine aircraft, indicating an engine may be completely omitted since it is clear which engine will be starting.
 
@@ -59,11 +63,15 @@ Sometimes the pilot may wish to communicate which engine needs to be started fir
 
 ## Pull Chocks
 
+![Pull Chocks Signal Illustration](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/0005-8589652368.png)
+
 The pull chocks signal communicates that the chocks (which are wedges made usually from rubber that prevents an aircraft from movement while parked) has been removed. Although the aircraft can move freely now, it does not necessarily clear the pilot to do so.
 
 
 
 ## Proceed Straight Ahead
+
+![Proceed Straight Ahead Signal Illustration](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/0005-5420012365.png)
 
 The proceed straight ahead signal communicates that the aircraft is cleared of any obstructions such as ground service equipment or ramp personnel and may move forward from its current position, taxiing the aircraft directly to the signalman.
 
@@ -71,11 +79,15 @@ The proceed straight ahead signal communicates that the aircraft is cleared of a
 
 ## Left Turn
 
+![Left Turn Signal Illustration](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/0005-3301211285.png)
+
 The left turn signal tells the pilot that he/she needs to turn the nose of the aircraft to the left of it current ground track. When this signal is given, it means that the pilot should continue to turn the aircraft left until another signal follows such as the proceed straight ahead.
 
 
 
 ## Right Turn
+
+![Right Turn Signal Illustration](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/0005-0002523011.png)
 
 The right turn signal tells the pilot that he/she needs to turn the nose of the aircraft to the right of it current ground track. When this signal is given, it means that the pilot should continue to turn the aircraft right until another signal follows such as the proceed straight ahead.
 
@@ -83,11 +95,15 @@ The right turn signal tells the pilot that he/she needs to turn the nose of the 
 
 ## Slow Down
 
+![Slow Down Signal Illustration](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/0005-5425889777.png)
+
 The slow down signal tells the pilot that he/she is taxiing at an unsafe rate of speed and needs to slow the aircraft down in order to regain a safe environment for everyone.
 
 
 
 ## Flagman Directs Pilot
+
+![Flagman Directs Pilot Signal Illustration](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/0005-8788968010.png)
 
 The flagman directs pilot signal communicates that a parking area is available and to proceed directly to the person giving the signal. Sometimes multiple personnel will be used to guide the aircraft into specified area.
 
@@ -95,11 +111,15 @@ The flagman directs pilot signal communicates that a parking area is available a
 
 ## Stop
 
+![Stop Signal Illustration](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/0005-5585554365.png)
+
 The stop signals tells the pilot when the aircraft needs to be stopped. The signalman will usually raise their hands slowly to indicate a smooth controlled stop. The signalman will use this slow smooth movement to time where the aircraft needs to stop in order properly chock, tie-down, or position a jet bridge.
 
 
 
 ## Emergency Stop
+
+![Emergency Stop Signal Illustration](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/0005-1286902551.png)
 
 The emergency stop signal is similar to the stop signal, but the movement of the signalman's hands will be brisk, indicating that the aircraft needs to be stop immediately to prevent any incidents from occurring.
 
@@ -107,16 +127,22 @@ The emergency stop signal is similar to the stop signal, but the movement of the
 
 ## Insert Chocks
 
+![Insert Chocks Signal Illustration](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/0005-8585542560.png)
+
 The insert chocks signal communicates that the chocks (which are wedges made usually from rubber that prevents an aircraft from movement while parked) has been inserted. Before line personnel approach the aircraft to insert the chocks, it is expected that the pilot will apply the parking brakes to prevent inadvertent movement of the aircraft. If the parking brakes is inoperative, the pilot must manually apply brakes until he receives the insert chocks signal.
 
 
 ## Cut Engines
+
+![Cut Engines Signal Illustration](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/0005-6685985201.png)
 
 The cut engines signal communicates that it is now safe to begin the aircraft shutdown procedures to secure the aircraft for parking. It is up to the pilot to determine the proper shutdown sequence according to their pilot's operating handbook or approved flight manual.
 
 
 
 ## Night Operations
+
+![Night Wands Next to Moon Illustration](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/0005-5567556780.png)
 
 During night or times of low visibility such as haze, fog, dust, or other weather phenomenon that may reduce visibility, line personnel will use lighted wands to direct an aircraft to and from parking. The hand movements are the same as during day operation and should be followed in that manner.
 

@@ -33,7 +33,7 @@ Provided and maintained by [https://studentpilotportal.com](https://studentpilot
 
 ---
 
-Preflight weather briefings provide pilots with vital weather information at the departure airport, along their route of flight, and at the destination airport. Pilots are strongly encourage to obtain a full weather briefing (regardless of the duration of the flight) to ensure that the most complete and up-to-date weather is received prior to departure.
+Preflight weather briefings provide pilots with vital weather information at the departure airport, along their route of flight, and at the destination airport. Pilots are strongly encouraged to obtain a full weather briefing (regardless of the duration of the flight) to ensure that the most complete and up-to-date weather is received prior to departure.
 
 ---
 

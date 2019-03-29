@@ -45,7 +45,7 @@ The use of air traffic control (ATC) light signals helps give directions to airc
 
 ## Controlling of Aircraft
 
-![](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/0003-1221354760.png)
+![Controlling of Aircraft Light Signal Chart](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/0003-1221354760.png)
 
 Pilots utilize air traffic control for various types of information, such as weather and traffic alerts (workload permitting). The controlling of aircraft effectively enhances the operations at airports - especially during takeoffs and landings. If radio contact cannot be established between ATC and a particular aircraft, the added layer of safety is lost.
 
@@ -68,7 +68,7 @@ Alternating red and green | Exercise extreme caution | Exercise extreme caution
 
 ## Controlling Ground Vehicles, Equipment, and Personnel
 
-![](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/0003-1627987889.png)
+![Controlling of Ground Vehicles, Equipment, and Personnel Light Chart](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/0003-1627987889.png)
 
 On airports/heliports where there is an active tower, all ground vehicles, equipment, and personnel must obtain prior approval from ATC for entry onto all movement areas. In the U.S., the term "movement area" means the runways, taxiways, and other areas of an airport/heliport which are utilized for taxiing, hover taxiing, air-taxiing, take-off and landing of aircraft, not including loading ramps and parking areas.
 
@@ -87,7 +87,7 @@ Alternating red and green | Exercise extreme caution
 
 ## Disadvantages of ATC Light Signals
 
-![](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/0003-6908978871.png)
+![Caution Illustration](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/0003-6908978871.png)
 
 When ATC uses the traffic control signal to control traffic, it emits an intense narrow beam of light (either red, white, or green). Although the traffic signal offers the advantage that some control may be exercised over nonradio-equipped aircraft, pilots should be aware of the disadvantages, such as:
 - The pilot may not be looking at the control tower at the time a signal is directed toward the aircraft.
