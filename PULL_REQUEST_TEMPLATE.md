@@ -29,7 +29,7 @@ Provided and maintained by [https://studentpilotportal.com](https://studentpilot
 
 
 
-# Lesson Title Less Than Eighty Characters In Length
+# Lesson Title (80 characters max)
 
 ---
 
@@ -43,20 +43,39 @@ This is the description for the lesson. The description should be in plain text 
 
 
 
-## Section One
+## Section Title (80 characters max)
 
-![Traffic Pattern](https://studentpilotportal.com/photos/learn/standard_traffic_pattern.png)
+![](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/000-.png)
 
 This is paragraph content for section one. All markdown syntax can be used in sections. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
+```md
 Table Header  | Second Header
 ------------- | -------------
 Table Cell    | Cell 2
 Cell 3        | Cell 4
 
+Creating bullets are easy, just list the items using a dash:
+- This is the first bullet
+- This is the second bullet
+- This is the third bullet
+
+Numbered lists are just as easy:
+1. This is the first bullet
+2. This is the second bullet
+3. This is the third bullet
+
+Links can be added like this:
+[Example of Adding Link - Alt Text](https://www.example.com)
+```
+
+**For more information on using Markdown, view the [Markdown Guide](https://simplemde.com/markdown-guide)**
+
 
 
 ## Section Two
+
+![](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/000-.png)
 
 This is paragraph content for section two. All markdown syntax can be used in sections. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
@@ -64,7 +83,9 @@ This is paragraph content for section two. All markdown syntax can be used in se
 
 ## Section Three
 
-This is paragraph content for section three. All markdown syntax can be used in sections. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+![](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/000-.png)
+
+Paragraph text starts here...
 
 
 
@@ -102,3 +123,4 @@ This is paragraph content for section three. All markdown syntax can be used in 
 ### Sources
 
 - [FAA Aeronautical Information Publication (AIP) 25th Edition, pg. ](https://www.faa.gov/air_traffic/publications)
+- [, pg. ]()
