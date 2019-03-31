@@ -171,7 +171,7 @@ During night or times of low visibility such as haze, fog, dust, or other weathe
 
 [['What are chocks?', 'A combination of ropes and chains that prevent an aircraft from moving while parked.', 'Wedges usually made from rubber that prevents an aircraft from moving while parked.', 'Metal flanges applied to the base of an aircraft wheels to prevent it from moving while parked.', 'B']]
 
-[['What is the signalman responsible for?', 'Directing the aircraft.', 'Taxiing the aircraft.', 'Shutting the engines down after the plan parks.', 'A']]
+[['What is the signalman responsible for?', 'Directing the aircraft.', 'Taxiing the aircraft.', 'Shutting the engines down after the plane parks.', 'A']]
 
 [['When placing chocks, line personnel expect the pilots to apply', 'the flaps.', 'the rudder.', 'the parking brakes.', 'C']]
 

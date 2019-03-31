@@ -113,7 +113,7 @@ If a pilots is ever uncertain about specific requirements for a give airplane, i
 
 ![](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/000-.png)
 
-Weight and balance documents, including a list of equipment, must be on board the aircraft. **This is not be confused with a weight and balance data sheet a pilot completes before each flight to ensure the center of gravity is within limits. The weight and balance information is a list of all equipment in the aircraft such as radios, flight instruments, seats, etc.** Some multiengine operators have Minimum Equipment Lists (MEL's) with a letter of authorization issued by a district office. These constitute a supplemental type certificate for the aircraft and must be on board. The FAA inspector will compare any inop­erative equipment to the MEL to assure compliance.
+Weight and balance information provided by the aircraft manufacturer, maintenance and modification records, including a list of equipment, must be on board the aircraft. This is not be confused with a weight and balance data sheet a pilot completes before each flight to ensure the center of gravity is within limits. The weight and balance information is a list of all equipment in the aircraft such as radios, flight instruments, seats, etc. Some multiengine operators have Minimum Equipment Lists (MEL's) with a letter of authorization issued by a district office. These constitute a supplemental type certificate for the aircraft and must be on board. The FAA inspector will compare any inop­erative equipment to the MEL to assure compliance.
 
 
 
