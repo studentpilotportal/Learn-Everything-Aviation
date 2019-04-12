@@ -79,6 +79,8 @@ Your instructor understands the time, effort, and expense involved in flight tra
 
 It is your responsibility to come prepared to each training session. You should use the training course outline given to you as a guide to what will be covered at each phase of your training and read any information relating to that lesson so that you can have a basic understanding of the material and come with any questions on the information that was not clear. It is often said that the airplane makes a terrible classroom. The best time to learn is before your flight lesson, so that you and your instructor makes the most effective use of your time flying in the airplane.
 
+The development of good study habits are crucial for understanding the flight instructor's explanation and visualizing examples in the textbook. Study habits should include time spent with cockpit familiarization - this includes reviewing checklists, identifying controls, and learning the cockpit arrangement.
+
 Like anything else in life, the more you educated yourself and are aware of
 what is expected of you, the more control you have of your goal’s outcome.
 

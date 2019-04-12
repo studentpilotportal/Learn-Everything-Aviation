@@ -407,5 +407,5 @@ National Security Areas consists of airspace of defined vertical and lateral dim
 ### Sources
 
 - [FAA Aeronautical Information Publication (AIP) 25th Edition, pg. ENR 1.4-1](https://www.faa.gov/air_traffic/publications)
-- [FAA-H-8083-25B: Pilot's Handbook of Aeronautical, pg. 15-1](https://studentpilotportal.com/books/aeronautical-knowledge-handbook)
+- [FAA-H-8083-25B: Pilot's Handbook of Aeronautical Knowledge, pg. 15-1](https://studentpilotportal.com/books/aeronautical-knowledge-handbook)
 - [FAA Air Traffic By The Numbers](https://www.faa.gov/air_traffic/by_the_numbers)
