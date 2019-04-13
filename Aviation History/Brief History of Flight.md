@@ -45,7 +45,7 @@ Since the beginning of time, man have always dreamed of flight. We've watched bi
 
 ## Leonardo da Vinci (1500s)
 
-![](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/000-.png)
+![Leonardo da Vinci Flying Machines](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/0006-5428401254.png)
 
 Perhaps the most recognized of his time, Leonardo da Vinci, first gave us inspiration of flying machines. Although most of his ideas were flawed because he insisted on a machine that consisted of bird-like wings, each failure gave birth to need ideas and technology.
 
@@ -53,7 +53,7 @@ Perhaps the most recognized of his time, Leonardo da Vinci, first gave us inspir
 
 ## Robert Hooke (1655s)
 
-![](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/000-.png)
+![Human Body Not Capable of Flight](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/0006-5428876400.png)
 
 Mathematician, Physicist, and Inventor Robert Hooke's research confirms that the human body on its own is not capable of flight due to the great amount of energy required to fly. He sets a new direction in aviation with his believe of achieving flight with artificial propulsion.
 
@@ -61,7 +61,7 @@ Mathematician, Physicist, and Inventor Robert Hooke's research confirms that the
 
 ## First Manned Balloon Flight (1783)
 
-![](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/000-.png)
+![First Manned Balloon Flight](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/0006-5698664501.png)
 
 Joseph and Etienne Montgolfier takes flight in the first manned hot air balloon, which flew for a total of 23 minutes. Ten days later, Professor Jacques Charles flew the first gas balloon. This gave flying enthusiasts hope to the promise of lighter-than-air-flight. Balloons solved the major problem of generating lift; however, its major setback was its lack of speed and directional control.
 
@@ -69,7 +69,7 @@ Joseph and Etienne Montgolfier takes flight in the first manned hot air balloon,
 
 ## Father of Aerial Navigation
 
-![](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/000-.png)
+![Flying Child's Toy Kite](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/0006-0012125584.png)
 
 It wasn't until the 13th century that man would discover a way to lift a heavier-than-air machine into the air. Sir George Cayley spent his 84 years developing a machine that would fly based on a child's toy kite, used by the Chinese for aerial observation and to test winds for sailing. Cayley's work laid the foundation to the basic principles on which modern aeronautics is founded. And his work is recognized as the first successful flying model capable of carrying a person.
 
@@ -77,7 +77,7 @@ It wasn't until the 13th century that man would discover a way to lift a heavier
 
 ## The Kitty Hawk Flyer
 
-![](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/000-.png)
+![Wright Brothers' First Flight](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/0006-4501255430.png)
 
 After Sir George Cayley's death, many worked on achieving the first powered flying machine. William Samuel Henson, designed and tested a monoplane propelled by a steam engine housed inside the fuselage. Otto Lilienthal also worked to prove that human flight in heavier-than-air machines were practical.
 

@@ -45,7 +45,7 @@ Operating an aircraft within the national airspace system requires a pilot to ha
 
 ## Airworthiness Certificate
 
-![](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/000-.png)
+![Example of Airworthiness Certificate](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/0010-2133540010.png)
 
 As the pilot in command (PIC) of an aircraft, you are ultimately responsible for the safe operation and outcome of a given flight. This starts with insuring that the aircraft that will be used for the flight has a valid and current airworthiness certificate. **The airworthiness of an aircraft is the responsibility of the pilot in command and is monitored by airworthiness inspectors. The certificate must be placed on the aircraft where the pilot or operator can easily see it.** Airworthiness certificates are issued under one of four types:
 1. Standard Certificate
@@ -65,7 +65,7 @@ The aircraft owner is responsible for obtaining an airworthiness certificate by 
 
 ## Registration Certificate
 
-![](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/000-.png)
+![Example of Registration Certificate](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/0010-5410886920.png)
 
 The FAA Civil Aviation Registry Aircraft Registration Branch (AFS-750) maintains registration records on individual aircraft and serves as a repository for airworthiness documents received from FAA field offices.
 
@@ -85,7 +85,7 @@ The aircraft owner is responsible for registering and renewing an aircraft's reg
 
 ## Radio Station License
 
-![](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/000-.png)
+![Example Ship/Aircraft Radio Station License](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/0010-8699645200.png)
 
 Although the FAA does not regulate it, a radio station license is required by the Federal Communications Commission (FCC) for all international operations. When operating internationally, both the pilot and aircraft must have valid radio station licenses. The license may be for that particular N-number or a fleet license. The expiration date of the license is in the upper right hand corner. Any discrep­ancy concerning the radio license should be brought to the attention of the operator only.
 
@@ -95,7 +95,7 @@ To obtain an FCC radio station license, pilots must complete an [FCC Form 605, Q
 
 ## Operating Limitations
 
-![](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/000-.png)
+![Example of Aircraft Takeoff Data](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/0010-1101200359.png)
 
 Prior to operating a civil airplane, pilots must assure that the aircraft has an available current Airplane Flight Manual (AFM) or approved manual materials, if required. An Airplane Flight Manual is a document developed by the aircraft manufacturer approved for use by the FAA, is required to be on board the aircraft along with the any appropriate markings and placards. **This book contains the operating procedures and any limitations of a particular aircraft with special instructions required to operate an aircraft safely. The pilot must comply with this information which is specific to an aircraft's year, make, and model - usually linked by serial number.**
 
@@ -111,7 +111,7 @@ If a pilots is ever uncertain about specific requirements for a give airplane, i
 
 ## Weight and Balance Information
 
-![](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/000-.png)
+![Example of Weight and Balance Information](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/0010-8894023684.png)
 
 Weight and balance information provided by the aircraft manufacturer, maintenance and modification records, including a list of equipment, must be on board the aircraft. This is not be confused with a weight and balance data sheet a pilot completes before each flight to ensure the center of gravity is within limits. The weight and balance information is a list of all equipment in the aircraft such as radios, flight instruments, seats, etc. Some multiengine operators have Minimum Equipment Lists (MEL's) with a letter of authorization issued by a district office. These constitute a supplemental type certificate for the aircraft and must be on board. The FAA inspector will compare any inop­erative equipment to the MEL to assure compliance.
 
@@ -119,7 +119,7 @@ Weight and balance information provided by the aircraft manufacturer, maintenanc
 
 ## Ramp Inspections
 
-![](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/000-.png)
+![FAA Operations Inspector Conducting Ramp Inspection](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/0010-4588570021.png)
 
 During a pilot's time operating under Federal Aviation Regulations (FAR) Part 91, he/she may have to undergo a ramp inspection by an FAA operations inspector. The purpose of this inspection is to determine that an airman or operator is in continuing compliance with the FAR during an actual operations at an airfield. Pilots are subject to ramp inspections at any time by an authorized FAA inspector and will usually not know of an inspector's presence until the inspector provide identification.
 

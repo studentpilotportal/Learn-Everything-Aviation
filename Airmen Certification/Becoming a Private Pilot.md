@@ -45,7 +45,7 @@ Becoming a pilot is one of the most rewarding experiences that you'll have throu
 
 ## General Requirements
 
-![](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/000-.png)
+![Pilots Preparing for Training Flight](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/0008-6585452232.png)
 
 According to §61.103, the general requirements to earn a private pilot certificate are as follows:
   1. Be at least 17 years of age for a rating in other than glider or balloon.
@@ -66,6 +66,8 @@ According to §61.103, the general requirements to earn a private pilot certific
 
 
 ## Aeronautical Knowledge and Experience
+
+![Private Pilot Flying Cessna 172 Aircraft](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/0008-3102213542.png)
 
 A person who is applying for a private pilot certificate must receive and log ground training from an authorized instructor or complete a home-study course on the following aeronautical knowledge areas that apply to the aircraft category and class rating sought:
   - Accident reporting requirements of the National Transportation Safety Board
@@ -103,6 +105,8 @@ _Aeronautical experience requirements relating to other ratings can be found in 
 
 ## Flight Proficiency
 
+![Private Pilot Flying Cessna 172 Aircraft](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/0008-7855874569.png)
+
 According to §61.107, a person who applies for a private pilot certificate must receive and log ground and flight training from an authorized instructor on the areas of operation of this section that apply to the aircraft category and class rating sought.
 
 _Chart of Areas of Operation Per Aircraft Category and Class Rating Sought_
@@ -124,7 +128,7 @@ Weight-Shift-Control | + Ground reference maneuvers<br />+ Slow flight and stall
 
 ## Privileges and Limitations
 
-![](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/000-.png)
+![Private Pilot Carrying Passengers](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/0008-0045311589.png)
 
 Generally, a person who holds a private pilot certificate may not act as pilot in command of an aircraft that is carrying passengers or property for compensation or hire; nor may that person, for compensation or hire, act as pilot in command of an aircraft. For aircraft requiring more than one pilot, the pilot may also not act as second in command of that aircraft for compensation or hire, or if that aircraft is carrying passengers or property for compensation or hire. However, the regulations do allow certain exceptions to this rule.
 

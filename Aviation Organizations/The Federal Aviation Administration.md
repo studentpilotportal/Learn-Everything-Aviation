@@ -45,7 +45,7 @@ The Federal Aviation Administration (FAA) is the governing agency that regulates
 
 ## Brief History of the FAA
 
-![](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/000-.png)
+![FAA Wilbur Wright Building](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/0009-4555299976.png)
 
 In 1931, an aircraft crash occurred that killed all on board including popular University of Notre Dame football coach Knute Rockne; this prompted the public's demand for greater federal oversight of aviation safety. To ensure a federal focus on safety, President Franklin Roosevelt signed the Civil Aeronautics Act in 1938, an act that introduced the Civil Aeronautics Authority (CAA) whose purpose were to conduct accident investigations and recommend ways of preventing further accidents.
 
@@ -59,7 +59,7 @@ Now concerned with the lack of a coordinated transportation system, President Jo
 
 ## The Code of Federal Regulations
 
-![](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/000-.png)
+![Federal Aviation Regulations](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/0009-5488546320.png)
 
 So how does the FAA achieve its mission of safety for civil aviation? The FAA uses the Code of Federal Regulations (CFR), which is a publication of general and permanent rules established by the executive departments and agencies of the United States Government. The regulations are divided into 50 different codes, called Titles, that represent broad areas subject to Federal regulation. Federal Aviation Regulations are listed under Title 14, Aeronautics and Space, which encompasses all aspects of civil aviation from how to earn a pilot's certificate to the maintenance of an aircraft. Title 14 CFR Chapter 1, FAA, is further broken down into subchapters A through N.
 
@@ -87,7 +87,7 @@ As a pilot, it is your responsibility to be familiar with the any regulations pe
 
 ## Enforcement of Safety Standards
 
-![](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/000-.png)
+![Air Traffic Control Tower](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/0009-8859124402.png)
 
 The FAA has nine regional offices strategically located across the U.S. with its main office headquartered in Washington, D.C. Within the FAA, the Flight Standards Service promotes safe air transportation by setting the standards for certification and oversight of airmen, air operators, and air agencies, and designees.
 
@@ -97,7 +97,7 @@ In addition, Aviation Safety Inspectors (ASIs) administer and enforce safety reg
 
 ## FAA Reference Material
 
-![](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/000-.png)
+![Boeing Aircraft Flying](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/0009-0002154243.png)
 
 In addition to the regulations, the FAA provides numerous publications online to aid pilots. Usually, there is no cost to the pilot for resources available at [https://www.faa.gov](https://www.faa.gov). Some third-party publishers also provide reference material in other formats and may charge a fee. Here are a few publications that we recommend that will aid you through various stages of your training as a pilot:
 
@@ -129,7 +129,7 @@ An agency-wide system that the FAA uses to communicate with the aviation communi
 
 ## Pilot and Aeronautical Information
 
-![](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/000-.png)
+![Airline Pilot Configuring Autopilot](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/0009-9931520483.png)
 
 When there is time-critical or unexpected aeronautical information that may or may not exist temporarily, the FAA will immediate disseminate that information via the National Notice to Airmen (NOTAM) System. NOTAMs contain current notices to airmen, which are considered essential to the safety of flight, as well as supplemental data affecting other operational publications. There are two types of NOTAMs, a NOTAM (D) or distant, which pertains to information relating to airports and navigational facilities, and a NOTAM (FDC) or Flight Data Center, which pertains to information relating to published Instrument Approach Procedures (IAPs) and other current aeronautical charts.
 
@@ -137,7 +137,7 @@ When there is time-critical or unexpected aeronautical information that may or m
 
 ## Flight Publications
 
-![](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/000-.png)
+![Flight Publication Examples](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/0009-4585423550.png)
 
 The FAA also distributes numerous flight publications such as charts and diagrams that play a key role in safe flight planning. These include, but not limited to, planning charts, VFR Charts, IFR Charts, Supplemental Charts and Publications and various digital products.
 
@@ -145,15 +145,11 @@ The FAA also distributes numerous flight publications such as charts and diagram
 
 ## Safety Program Airmen Notification System (SPANS)
 
-![](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/000-.png)
-
 The FAA also launched an online event notification system that provides timely and easy-to-assess seminar and event information notification for airmen, which is meant to replace the paper-based mail system. SPANS is accessible to anyone and will help reduce the cost to the FAA while providing better service to the aviation community.
 
 
 
 ## Assistance from the FAA
-
-![](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/000-.png)
 
 Information and assistance can be obtained by accessing the FAA's website at [https://www.faa.gov/contact](https://www.faa.gov/contact), by phone, e-mail, or mail. An FAA representative will be available 24 hours a day to assistance you. You may also visit your local Flight Standards District Office (FSDO) for assistance relating to the following:
 - Low-flying Aircraft

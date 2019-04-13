@@ -45,7 +45,7 @@ Flight instructors play the most important role in a student pilot's flight trai
 
 ## Instructor Responsibilities
 
-![](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/000-.png)
+![Cessna 172 Cockpit Controls](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/0007-4562358401.png)
 
 Certified Flight Instructors (CFI) and Certified Ground Instructors (CGI) are solely responsible for training pilots and making sure they meet all proficiency requirements listed in the Airmen Certification Standards (ACS) for the applicable pilot certificate or rating that pilot is seeking; this includes, but not limited to, airmanship skills, airspace knowledge, regulation knowledge, performance or pilot limitations, pilot judgment and decision-making, and good operating practices.
 
@@ -63,7 +63,7 @@ Whether you attend a part 141 or part 61 school or obtain the services of an ind
 
 ## Instructor and Student Relationship
 
-![](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/000-.png)
+![Instructor and Student Relationship](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/0007-7869514250.png)
 
 During your training, you may encounter various instructors. Whether or not you plan to fly professionally, your training experience and flying career will depend heavily on the quality of the ground and flight instruction you receive from your instructor. Each instructor will have their own teaching style. Regardless of that instructor's style of teaching, you should have complete confidence in your instructor. He or she has meet all the requirements to become a certificated instructor under 14 CFR part 61 and is capable of operating an aircraft safely.
 
@@ -73,7 +73,7 @@ The flight instructor will provide guidance and arrange your academic and flight
 
 ## What the Instructor Expects of Each Student
 
-![](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/000-.png)
+![Study](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/0007-4586852001.png)
 
 Your instructor understands the time, effort, and expense involved in flight training and wants to see you succeed. He or she will require you to demonstrate knowledge in all applicable areas and proficiency in flight in order to move forward to each lesson. It is never an instructor's intention to repeat a lesson unless the instructor feels that the student will not be successful or be able to maintain safety for an upcoming flight.
 
