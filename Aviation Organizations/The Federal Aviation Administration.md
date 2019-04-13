@@ -101,29 +101,17 @@ In addition, Aviation Safety Inspectors (ASIs) administer and enforce safety reg
 
 In addition to the regulations, the FAA provides numerous publications online to aid pilots. Usually, there is no cost to the pilot for resources available at [https://www.faa.gov](https://www.faa.gov). Some third-party publishers also provide reference material in other formats and may charge a fee. Here are a few publications that we recommend that will aid you through various stages of your training as a pilot:
 
-[**Aeronautical Information Manual (AIM)**](https://www.faa.gov/air_traffic/publications)
+[**Aeronautical Information Manual (AIM)**](https://www.faa.gov/air_traffic/publications): An official guide to basic flight information and ATC procedures. The AIM contains many topics such as flight safety, accidents, medical facts, and reporting hazards.
 
-An official guide to basic flight information and ATC procedures. The AIM contains many topics such as flight safety, accidents, medical facts, and reporting hazards.
+[**Airplane Flying Handbook**](https://studentpilotportal.com/books/airplane-flying-handbook): A technical manual that manual that introduces pilots to skills and knowledge that are essential for piloting airplanes. It provides valuable information on transitioning to other aircraft and airplane systems.
 
-[**Airplane Flying Handbook**](https://studentpilotportal.com/books/airplane-flying-handbook)
+[**Aviation Instructor's Handbook**](https://studentpilotportal.com/books/aviation-instructor-handbook): Lays the foundation to teach instructors the fundamentals of instructing and providing relevant aeronautical knowledge and skills to students when teaching them out to fly.
 
-A technical manual that manual that introduces pilots to skills and knowledge that are essential for piloting airplanes. It provides valuable information on transitioning to other aircraft and airplane systems.
+[**Instrument Flying Handbook**](https://studentpilotportal.com/books/instrument-flying-handbook): Prepares pilots for instrument rating tests and gives them the knowledge needed to be successful when conducting instrument flights.
 
-[**Aviation Instructor's Handbook**](https://studentpilotportal.com/books/aviation-instructor-handbook)
+[**Instrument Procedures Handbook**](https://studentpilotportal.com/books/instrument-procedures-handbook): A technical reference for professional pilots operating under IFR and expands on knowledge provided in the Instrument Flying Handbook.
 
-Lays the foundation to teach instructors the fundamentals of instructing and providing relevant aeronautical knowledge and skills to students when teaching them out to fly.
-
-[**Instrument Flying Handbook**](https://studentpilotportal.com/books/instrument-flying-handbook)
-
-Prepares pilots for instrument rating tests and gives them the knowledge needed to be successful when conducting instrument flights.
-
-[**Instrument Procedures Handbook**](https://studentpilotportal.com/books/instrument-procedures-handbook)
-
-A technical reference for professional pilots operating under IFR and expands on knowledge provided in the Instrument Flying Handbook.
-
-[**Advisory Circulars (ACs)**](https://www.faa.gov/regulations_policies/advisory_circulars)
-
-An agency-wide system that the FAA uses to communicate with the aviation community and public which serves as a standardized method of implementing regulations and responding to government requests.
+[**Advisory Circulars (ACs)**](https://www.faa.gov/regulations_policies/advisory_circulars): An agency-wide system that the FAA uses to communicate with the aviation community and public which serves as a standardized method of implementing regulations and responding to government requests.
 
 
 

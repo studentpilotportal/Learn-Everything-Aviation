@@ -82,7 +82,7 @@ It is your responsibility to come prepared to each training session. You should 
 The development of good study habits are crucial for understanding the flight instructor's explanation and visualizing examples in the textbook. Study habits should include time spent with cockpit familiarization - this includes reviewing checklists, identifying controls, and learning the cockpit arrangement.
 
 Like anything else in life, the more you educated yourself and are aware of
-what is expected of you, the more control you have of your goal’s outcome.
+what is expected of you, the more control you have over the outcome of your goals.
 
 
 
@@ -110,8 +110,7 @@ what is expected of you, the more control you have of your goal’s outcome.
 
 [['What is a CFI?', 'Certified Flight Instrument', 'Certification Flight Improvements', 'Certified Flight Instructor', 'C']]
 
-[['Student pilots should have absolute', 'knowledge of all areas before beginning flight training.', 'confidence in their CFI.
-', 'good flying skills before flight training.', 'B']]
+[['Student pilots should have absolute', 'knowledge of all areas before beginning flight training.', 'confidence in their CFI.', 'good flying skills before flight training.', 'B']]
 
 [['The most important role as a CFI is to train pilots in all knowledge areas and', 'teach skills needed to operate an aircraft safely.', 'reduce cost by not conducting preflight checks or carrying enough fuel.', 'help pilots complete training rapidly.', 'A']]
 

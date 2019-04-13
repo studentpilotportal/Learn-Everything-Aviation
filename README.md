@@ -79,7 +79,7 @@ You may use these lessons in accordance with the Apache-2.0 License.
 
 To download all lessons for printing or offline use, click the green download button on this page to the top right or clone this repository by running the following command:
 ```sh
-git clone https://github.com/studentpilotportal/Learn-Everything-Aviation
+git clone https://github.com/studentpilotportal/Learn-Everything-Aviation.git
 ```
 
 

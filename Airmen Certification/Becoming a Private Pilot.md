@@ -33,7 +33,7 @@ Provided and maintained by [https://studentpilotportal.com](https://studentpilot
 
 ---
 
-Becoming a pilot is one of the most rewarding experiences that you'll have throughout your lifetime. As a private pilot you'll enjoy taking to skies for pleasure or personal business. Earning your private pilot certificate is easy if you are focused, open to learning, and have both the time and money to fund your goals. With the private pilot certificate being the most held certificate by majority of active pilots you will be welcomed to a community of many aviators with similar goals to yours.
+Becoming a pilot is one of the most rewarding experiences that you'll have throughout your lifetime. As a private pilot, you'll enjoy taking to skies for pleasure or personal business. Earning your private pilot certificate is easy if you are focused, open to learning, and have both the time and money to fund your goals. With the private pilot certificate being the most held certificate by the majority of active pilots you will be welcomed to a community of many aviators with similar goals to yours.
 
 ---
 
@@ -85,6 +85,7 @@ A person who is applying for a private pilot certificate must receive and log gr
     - How to obtain information on runway lengths at airports of intended use, data on takeoff and landing distances, weather reports and forecasts, and fuel requirements
     - How to plan for alternatives if the planned flight cannot be completed or delays are encountered
 
+
 While there are many ratings a pilot can apply for as a private pilot, we will have listed the required aeronautical experience for the most common rating, the airplane single-engine rating:
   - At least 40 hours of total flight time which includes:
     - 20 hours of flight training from an authorized instructor
@@ -131,6 +132,7 @@ Weight-Shift-Control | + Ground reference maneuvers<br />+ Slow flight and stall
 ![Private Pilot Carrying Passengers](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/0008-0045311589.png)
 
 Generally, a person who holds a private pilot certificate may not act as pilot in command of an aircraft that is carrying passengers or property for compensation or hire; nor may that person, for compensation or hire, act as pilot in command of an aircraft. For aircraft requiring more than one pilot, the pilot may also not act as second in command of that aircraft for compensation or hire, or if that aircraft is carrying passengers or property for compensation or hire. However, the regulations do allow certain exceptions to this rule.
+
 
 _Exceptions_
 

@@ -33,7 +33,7 @@ Provided and maintained by [https://studentpilotportal.com](https://studentpilot
 
 ---
 
-Since the beginning of time, man have always dreamed of flight. We've watched birds soar and try tirelessly to imitate the complex system we now know. Many lives were lost in pursue of flight. But it is only now that modern technology allows us to fly, live, and be free just like the birds.
+Since the beginning of time, man has always dreamed of flight. We've watched birds soar and try tirelessly to imitate the complex system we now know. Many lives were lost in pursuit of flight. But it is only now that modern technology allows us to fly, live, and be free just like the birds.
 
 ---
 
