@@ -49,6 +49,7 @@ INSERT INTO `categories` (`category_name`) VALUES
 ('Special Flight Operations'),
 ('Takeoffs, Landings, and Go-Arounds'),
 ('Weather Theory'),
-('Weight and Balance');
+('Weight and Balance'),
+('Aviation Pioneers');
 
 COMMIT;
