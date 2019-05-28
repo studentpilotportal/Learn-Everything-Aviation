@@ -39,7 +39,7 @@ The structure of an aircraft plays an enormous role in how that airplane operate
 
 
 [[Certification: "Student Pilot"]]
-[[Category: "Performance and Limitations"]]
+[[Category: "Aircraft Design"]]
 
 
 
