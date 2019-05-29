@@ -33,7 +33,7 @@ Provided and maintained by [https://studentpilotportal.com](https://studentpilot
 
 ---
 
-The structure of an aircraft plays an enormous role in how that airplane operates. Aircraft designers continuously create new ways to improve aircraft performance and safety with the implementation of new structures. In this lesson, you’ll learn about four structures: truss, monocoque, semimonocoque, and composite.
+The structure of an aircraft plays an enormous role in how it flies; it is usually a well-balanced combination of materials that are light, yet strong enough to support the aircraft's weight. Aircraft designers continuously create new ways to improve aircraft performance and safety with the implementation of new materials and structures.
 
 ---
 
@@ -45,7 +45,7 @@ The structure of an aircraft plays an enormous role in how that airplane operate
 
 ## Why is Structure Important?
 
-![](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/000-.png)
+![Wing Flex Example](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/0011-8897568025.png)
 
 When an aircraft is in flight, loads are placed on its surfaces. An aircraft must be strong enough to resist the loads, but should also be lightweight to improve the aircraft's efficiency and maintain its aerodynamic capabilities during flight. Each type of structure and material has both advantages and disadvantages. Aircraft designers continue to search for the perfect material and structure that is strong, malleable, and lightweight.
 
@@ -53,9 +53,9 @@ When an aircraft is in flight, loads are placed on its surfaces. An aircraft mus
 
 ## Truss Structure
 
-![](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/000-.png)
+![Truss Structure Example](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/0011-5422534100.png)
 
-Truss structure is the earliest form of aircraft structure. It consists of lengths of tubing called longerons, which are welded together to form a sturdy framework. Vertical and horizontal struts are welded to the longerons and give the structure a square or rectangular shape when viewed from the end. Additional struts are used to resist stress from all directions. Stringers and bulkheads or formers are added to shape the fuselage and support the covering. As technology progressed, aircraft designers began to streamline the airplane to improve performance; they first used fabric to accomplish this, but eventually led to the use of lightweight materials like aluminum.
+Truss structure is the earliest form of aircraft structure. It consists of lengths of tubing called longerons, which are welded together to form a sturdy framework. Vertical and horizontal struts (also called web members) are welded to the longerons and give the structure added strength and to help define it's shape. Additional struts are used to resist stress from all directions. Stringers and bulkheads or formers are added to shape the fuselage and support the covering. As technology progressed, aircraft designers began to streamline the airplane to improve performance; they first used fabric to accomplish this, but eventually led to the use of lightweight materials like aluminum.
 
 
 **Advantage of Truss:** Strong construction
@@ -66,9 +66,9 @@ Truss structure is the earliest form of aircraft structure. It consists of lengt
 
 ## Monocoque Construction
 
-![](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/000-.png)
+![Monocoque Construction Example](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/0011-2400129873.png)
 
-Monocoque construction uses stressed skin to support almost all loads, similar to an aluminum beverage can. This structure helped to reduce the overall weight of an aircraft due to the reduction, or sometimes elimination, of an internal open framework. The earliest form of monocoque construction was employed in 1918 by Jack Northrop who used it in a Lockheed S-1 Racer. Although strong, this structure was not very tolerant to deformation of the surface. For example, an aluminum beverage can support considerable forces at the ends of the can, but when there are loads placed on the sides of the can, it is deformed slightly while supporting the load may even collapse.
+Monocoque construction uses stressed skin to support almost all loads, similar to an aluminum beverage can. This structure helps to reduce the overall weight of an aircraft due to the reduction, or sometimes elimination, of an internal open framework. The earliest form of monocoque construction was employed in 1918 by Jack Northrop who used it in a Lockheed S-1 Racer. Although strong, this structure was not very tolerant to deformation of the surface. For example, an aluminum beverage can support considerable forces at the ends of the can, but when there are loads placed on the sides of the can, it may slightly deform or even cause complete collapse of the structure.
 
 
 **Advantage of Monocoque:** Lightweight
@@ -79,7 +79,7 @@ Monocoque construction uses stressed skin to support almost all loads, similar t
 
 ## Semimonocoque Construction
 
-![](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/000-.png)
+![Semimonocoque Construction Example](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/0011-5587645240.png)
 
 Similar to the monocoque construction, semimonocoque construction is a substructure which the airplane's skin is attached. Designers use bulkheads and/or formers, and stringers to reinforce the stressed skin to reduce deformation. This reduces the overall loads placed on the fuselage.
 
@@ -92,7 +92,7 @@ Similar to the monocoque construction, semimonocoque construction is a substruct
 
 ## Composite Construction
 
-![](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/000-.png)
+![Boeing 787 Construction Materials Example (includes 50% composite materials)](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/0011-0233461028.png)
 
 Most modern aircraft use a composite construction, which consists of fiber-reinforced and matrix systems. Composite construction can be found as early as World War II when the B-29 aircraft first used it as insulation for its fuselages. Of the many materials available, fiberglass and carbon fiber is the most commonly used reinforcing fibers, while epoxy resin is the most commonly used matrix.
 

@@ -45,7 +45,7 @@ Sir Isaac Newton formulated the law of universal gravitation as well as the thre
 
 ## Newton’s First Law
 
-![](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/000-.png)
+![Illustration of Newton's First Law](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/0012-8787552036.png)
 
 > “Every object persists in its state of rest or uniform motion in a straight line unless it is compelled to change that state by forces impressed on it.”
 
@@ -57,7 +57,7 @@ An object at rest, tends to stay at rest; while an object in motion, tends to st
 
 ## Newton’s Second Law
 
-![](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/000-.png)
+![Illustration of Newton's Second Law](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/0012-8974552501.png)
 
 > “Force is equal to the change in momentum per change in time. For a constant mass, force equals mass times acceleration.”
 
@@ -74,7 +74,7 @@ When a body is acted upon by a constant force, its resulting acceleration is inv
 
 ## Newton’s Third Law
 
-![](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/000-.png)
+![Illustration of Newton's Third Law](https://s3.us-east-2.amazonaws.com/media.studentpilotportal.com/images/lesson-graphics/0012-9901057891.png)
 
 > “For every action, there is an equal and opposite reaction.”
 
