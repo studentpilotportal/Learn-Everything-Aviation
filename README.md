@@ -13,7 +13,7 @@
 [![Contributors][contributors-shield]]()
 [![MIT License][license-shield]][license-url]
 
-
+<p align="center"><strong>WE HAVE MOVED AWAY FROM THIS FORMAT. ALL LESSONS AND DOWNLOADABLE CONTENT WILL BE AVAILABLE ON OUR WEBSITE: https://studentpilotportal.com. IF YOU HAVE ANY QUESTIONS OR WOULD LIKE TO CONTRIBUTE TO OUR GROWING LESSON CATALOG PLEASE CONTACT US VIA EMAIL AT pilots@studentpilotportal.com</strong></p>
 
 <!-- PROJECT LOGO -->
 <br />
@@ -102,7 +102,7 @@ Contributions are what make the open source community such an amazing place to b
 
 Distributed under the Apache-2.0 License. See `LICENSE` for more information.
 
-Copyright © 2018 by Student Pilot Portal, LLC
+Copyright © 2018-2022 by Student Pilot Portal, LLC
 
 **None of the material in this Work supersedes any documents,
 procedures, or regulations issued by the Federal Aviation
